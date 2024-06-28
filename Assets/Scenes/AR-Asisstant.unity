@@ -1382,9 +1382,7 @@ MonoBehaviour:
     de programaci\xF3n y diversas plataformas, como: Unity, Vuforia, ARKit, ARCore,
     entre otras. La selecci\xF3n de la herramienta adecuada depende de los objetivos
     espec\xEDficos del programa y de la plataforma en la que se ejecutar\xE1, ya
-    sea iOS, Android o Windows.\n\nEsta aplicaci\xF3n tiene como fin llevar a cabo
-    un trabajo programado de tesis universitaria, a\xFAn no es una aplicaci\xF3n
-    para la producci\xF3n."
+    sea iOS, Android o Windows."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
